@@ -15,8 +15,16 @@
 
 }
 
+.container-fluid {
+  background-color: #cac1d8;
+}
+
+.navbar-nav .nav-link
+{
+      color: #4c3199;
+}
 .nav-link:hover {
-  background: linear-gradient(180deg, #c32121 0, #c16108);
+  background: linear-gradient(180deg, #7f1dbc 0, #1f18a6);
   border-radius: 1.3rem;
 }
 
